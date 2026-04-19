@@ -49,12 +49,6 @@ attrition.
 
 ---
 
-## Project Structure
-
----
-
-## Key Findings
-
 ## Key Findings
 
 ### Overall
