@@ -55,8 +55,46 @@ attrition.
 
 ## Key Findings
 
-> *Will be updated as analysis progresses*
+## Key Findings
 
+### Overall
+- Company attrition rate: **16.1%** — 237 out of 1,470 employees left
+
+### Q1 — Attrition by Department
+- Sales has the highest attrition rate, exceeding the company average
+- Human Resources has the lowest attrition rate
+
+### Q2 — Overtime, Income & Job Level
+- Overtime workers leave at **30.5%** vs only **10.4%** for non-overtime — 3× higher
+- Employees who left earned a median of **$3,202/month** vs **$5,204** for those who stayed — 38% less
+- Junior employees (Job Level 1) have the highest attrition rate
+
+### Q3 — Age & Tenure
+- Employees aged **18–25** have the highest attrition rate of any age group
+- Employees in their **first 2 years** leave at **29.8%** — nearly 1 in 3
+- Attrition drops significantly after year 2, confirming the first 2 years as the critical retention window
+
+### Q4 — Satisfaction & Work-Life Balance
+- Low job satisfaction employees leave at roughly **double** the rate of Very High satisfaction employees
+- Poor work-life balance consistently correlates with higher attrition across all levels
+
+### Q5 — Flight Risk Profile
+- **29 employees (2% of workforce)** meet all flight risk criteria
+- Their attrition rate is **58.6%** — 3.6× the company average
+- Profile: junior, overtime, 0–2 years tenure, low satisfaction, income ~$2,690/month
+- 82.8% are in Research & Development (Research Scientists & Lab Technicians)
+
+---
+
+## Recommendations
+
+| Priority | Action | Based On |
+|---|---|---|
+| 🔴 High | Review overtime policy for junior employees | Q2 — strongest predictor |
+| 🔴 High | Immediate retention focus on 29 flight risk employees | Q5 — 58.6% attrition rate |
+| 🟡 Medium | Strengthen onboarding for first 2 years | Q3 — 29.8% early attrition |
+| 🟡 Medium | Review compensation for Level 1 roles | Q2 — 38% income gap |
+| 🟢 Ongoing | Monitor satisfaction scores in Sales | Q1 + Q
 ---
 
 ## How to Run
