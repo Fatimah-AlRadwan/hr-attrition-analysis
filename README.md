@@ -44,7 +44,6 @@ attrition.
 | matplotlib & seaborn | Data visualisation |
 | SQLite (sqlite3) | SQL querying within Python |
 | Jupyter Notebook | Interactive analysis environment |
-| Power BI | Final interactive dashboard |
 | GitHub | Version control and portfolio |
 
 ---
