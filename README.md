@@ -1,9 +1,9 @@
 # HR Employee Attrition Analysis
 ### Uncovering what drives employees to leave — and what keeps them
 
-Author: Fatimah Alradwan
-Date: April 2026
-Status: Complete
+**Author:** Fatimah Alradwan  
+**Status:** Complete
+
 ---
 
 ## Project Overview
