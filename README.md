@@ -1,10 +1,9 @@
 # HR Employee Attrition Analysis
 ### Uncovering what drives employees to leave — and what keeps them
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![pandas](https://img.shields.io/badge/pandas-2.2.2-green)
-![Status](https://img.shields.io/badge/Status-In%Complete-green)
-
+Author: Fatimah Alradwan
+Date: April 2026
+Status: Complete
 ---
 
 ## Project Overview
@@ -98,12 +97,5 @@ cd hr-attrition-analysis
 pip install pandas matplotlib seaborn jupyter
 jupyter notebook
 ```
-
----
-
-## Author
-
-**Fatimah Alradwan** — MIS Graduate, Imam Abdulrahman Bin Faisal University  
-[LinkedIn](https://linkedin.com/in/fatimah-alradwan) · [GitHub](https://github.com/Fatimah-AlRadwan)
 
 ---
