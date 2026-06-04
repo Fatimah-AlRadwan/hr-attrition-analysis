@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![pandas](https://img.shields.io/badge/pandas-2.2.2-green)
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+![Status](https://img.shields.io/badge/Status-In%Complete-green)
 
 ---
 
@@ -87,7 +87,7 @@ attrition.
 | 🔴 High | Immediate retention focus on 29 flight risk employees | Q5 — 58.6% attrition rate |
 | 🟡 Medium | Strengthen onboarding for first 2 years | Q3 — 29.8% early attrition |
 | 🟡 Medium | Review compensation for Level 1 roles | Q2 — 38% income gap |
-| 🟢 Ongoing | Monitor satisfaction scores in Sales | Q1 + Q
+| 🟢 Ongoing | Monitor satisfaction scores in Sales | Q1 + Q4
 ---
 
 ## How to Run
@@ -104,7 +104,6 @@ jupyter notebook
 ## Author
 
 **Fatimah Alradwan** — MIS Graduate, Imam Abdulrahman Bin Faisal University  
-📍 Eastern Province, Saudi Arabia  
 [LinkedIn](https://linkedin.com/in/fatimah-alradwan) · [GitHub](https://github.com/Fatimah-AlRadwan)
 
 ---
